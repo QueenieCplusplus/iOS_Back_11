@@ -13,6 +13,8 @@ my code see:
 
 3. TableView.
 
+   https://github.com/QueenieCplusplus/iOS_Back_11/blob/main/ResultDisplayVC.swift
+
 ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_11/main/output%201.png)
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_11/main/output%202.png)
