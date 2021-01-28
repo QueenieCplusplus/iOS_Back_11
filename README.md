@@ -1,6 +1,16 @@
 # iOS_Back_11
 Table View with Search Bar using UISearchController
 
+my code see:
+
+1. share read-only variable in AppDelegate.
+
+   https://github.com/QueenieCplusplus/iOS_Back_11/blob/main/9.%20AppDelegate.png
+   
+2. UISearchController.
+
+3. TableView.
+
 ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_11/main/output%201.png)
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_11/main/output%202.png)
